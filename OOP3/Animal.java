@@ -48,7 +48,7 @@ public abstract class Animal {
     }
 
     protected void theBreedIs(){
-        System.out.println("The breed of this animal is" + getBreed());
+        System.out.println("The breed of this animal is " + getBreed());
     }
     }
 
