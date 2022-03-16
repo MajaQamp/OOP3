@@ -18,6 +18,7 @@ newCat.saysMeow();
 
 newSiameseCat.longHair();
 newSiameseCat.scratchesAfterMoew();
+newSiameseCat.theBreedIs();
 
 
 }
